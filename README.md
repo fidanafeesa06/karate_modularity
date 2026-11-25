@@ -1,4 +1,3 @@
-# karate_modularity
 # Modularity on the Karate Club Graph
 
 **DSC212: Graph Theory, Research Assignment**
@@ -16,4 +15,4 @@ This project finds communities in Zachary's Karate Club network using recursive 
 
 ## Reference
 M. E. J. Newman, "Modularity and community structure in networks," PNAS 103(23), 8577-8582 (2006).
-DSC212 ASSIGNMENT: SPECTRAL MODULARITY ON THE KARATE CLUB GRAPH
+
